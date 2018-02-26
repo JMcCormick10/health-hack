@@ -1,0 +1,1107 @@
+/*
+
+    Authors: Kelly Ann McNamara
+    Client: Health Hack
+    Project: Php Group Project 2017
+    Verison: 1.0
+
+_________________________________
+
+  General Guidelines
+
+  Colours:
+  Red: #e04152
+  Blue: #35adda
+  Yellow: #ffcf48
+  Green: #8cc34b
+  Off White: #f6f7fb
+  Light Grey: #ccd0d9
+  Dark Grey: #434a54
+
+  Colour Meanings:
+  Red: Main Branding Colour
+  Blue: Main Content
+  Yellow: Accent Colour/Success Messages/Alerts
+  Green: Hover/Active/Interactive
+
+
+_________________________________
+
+    INDEX
+    01. Attributes
+    02. Top Bar
+        02-1. Navigation
+        02-2. Mobile Navigation
+        02-3. Top Logo
+        02-4. Search
+    03. Typography
+    04. Main Content
+        04-1. Intro Banner
+        04-2. Feature Callout
+        04-3. Progress Callout
+    05. Form Styling
+    06. Footer
+    07. Landing Page
+    08. Josh's Styling
+    09. Bryan's Styling
+    10. Ivan's Styling
+    11. Rahul's Styling
+    12. y's Styling
+    13. Media Queries
+
+*/
+
+/* 01. Attributes */
+
+* {
+    margin: 0 auto;
+}
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+html {
+    font-size: 100%;
+    box-sizing: border-box;
+}
+body {
+    font-size: 62.5%;
+    margin: 0 auto;
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    text-rendering: geometricPrecision;
+}
+#wrapper {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+}
+#site-canvas {
+    width: 100%;
+    position: relative;
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+    -webkit-transition: 0.5s all ease;
+    transition: 0.5s all ease;
+}
+/* 02. Top Bar */
+#top-bar {
+    position: relative;
+}
+/* 02-1. Navigation */
+#nav {
+    width: 16%;
+    background: #fff;
+    height: 100%;
+    padding-left: 0;
+    padding-right: 0;
+}
+#menu {
+    padding: 0;
+}
+#menu button {
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 1.3em;
+    width: 100%;
+    background: #e04152;
+    padding: 15px 0px 15px 40px;
+    border: none;
+    text-align: left;
+    transition: 0.7s all ease;
+}
+#menu button:hover, #menu button:focus {
+    background: #8cc34b;
+    outline: none;
+}
+.profile {
+    margin: 0 auto;
+    text-align: center;
+    padding: 50px 0px;
+}
+.profile-photo {
+
+}
+.nav-links {
+    margin-left: -20px;
+    padding-right: 20px;
+}
+.nav-links ul {
+    list-style: none;
+}
+.nav-links ul li {
+    padding: 15px 0px 15px 15px;
+    border-bottom: #e5e7ec solid 2px;
+    margin: 0px 15px;
+}
+.nav-links ul li:last-child {
+    border: none;
+}
+.nav-links ul li a {
+    color: #8d97a4;
+    font-size: 1.6em;
+}
+.nav-links ul li:hover, .nav-links ul li:active, .nav-links ul li:focus {
+    background: #8cc34b;
+    outline: none;
+}
+.nav-links ul li:hover a {
+    text-decoration: none;
+    color: #fff;
+}
+/* 02-2. Mobile Navigation */
+#mobile-menu {
+    width: 270px;
+    position: absolute;
+    top: 0;
+    left: -270px;
+    padding: 15px;
+}
+/* 02-3. Top Logo */
+#top-logo {
+    background: #fff;
+    width: 75.5%;
+    text-align: center;
+    padding-top: 12px;
+}
+/* 02-4. Search */
+#search {
+    text-align: right;
+    padding-right: 30px;
+}
+#search-bar {
+    position: relative;
+}
+input[type="search"].search-input {
+    background: none;
+    border: none;
+    padding: 5px 10px;
+    color: #e04152;
+    outline: none;
+    font-size: 10px;
+    width: 65%;
+    -webkit-box-shadow: inset 0px -2px 0px 0px #8d97a4;
+    -moz-box-shadow: inset 0px -2px 0px 0px #8d97a4;
+    box-shadow: inset 0px -2px 0px 0px #8d97a4;
+    transition: 0.7s all ease;
+    text-align: left;
+}
+input[type="search"].search-input:hover, input[type="search"].search-input:active, input[type="search"].search-input:focus {
+    -webkit-box-shadow: inset 0px -2px 0px 0px #8cc34b;
+    -moz-box-shadow: inset 0px -2px 0px 0px #8cc34b;
+    box-shadow: inset 0px -2px 0px 0px #8cc34b;
+    outline: none;
+}
+button[type="submit"].search-submit {
+    width: 30px;
+    height: 30px;
+    background: none;
+    border: none;
+}
+button[type="submit"].search-submit:hover #search-icon #search-line-1, button[type="submit"].search-submit:active #search-icon #search-line-1, button[type="submit"].search-submit:focus #search-icon #search-line-1 {
+    -webkit-box-shadow: inset 0px 0px 0px 3px #8cc34b;
+    -moz-box-shadow: inset 0px 0px 0px 3px #8cc34b;
+    box-shadow: inset 0px 0px 0px 3px #8cc34b;
+    outline: none;
+}
+button[type="submit"].search-submit:hover #search-icon #search-line-2, button[type="submit"].search-submit:active #search-icon #search-line-2, button[type="submit"].search-submit:focus #search-icon #search-line-2 {
+    -webkit-box-shadow: inset 0px 0px 0px 3px #8cc34b;
+    -moz-box-shadow: inset 0px 0px 0px 3px #8cc34b;
+    box-shadow: inset 0px 0px 0px 3px #8cc34b;
+    outline: none;
+}
+#search-icon {
+    width: 30px;
+    height: 30px;
+    position: relative;
+}
+#search-icon #search-line-1 {
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    -webkit-box-shadow: inset 0px 0px 0px 3px #e04152;
+    -moz-box-shadow: inset 0px 0px 0px 3px #e04152;
+    box-shadow: inset 0px 0px 0px 3px #e04152;
+    position: absolute;
+    top: 7px;
+    transition: 0.7s all ease;
+}
+#search-icon #search-line-2 {
+    height: 3px;
+    width: 10px;
+    background: #e04152;
+    position: absolute;
+    top: 25px;
+    left: 15px;
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    transform: rotate(45deg);
+    transition: 0.7s all ease;
+}
+
+/* 03. Typography */
+h1 {
+    color: #fff;
+    font-size: 4.5em;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+h2 {
+    color: #434a54;
+    font-size: 1.6em;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding-top: 30px;
+}
+h3 {
+    color: #434a54;
+    font-size: 3em;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+h4 {
+    color: #35adda;
+    font-size: 2.25em;
+    font-weight: 400;
+    text-align: center;
+    padding-top: 10px;
+    text-transform: uppercase;
+}
+p {
+    color: #8d97a4;
+    font-size: 1.3em;
+    font-weight: 400;
+    padding-top: 10px;
+    margin-bottom: 0;
+}
+.light-grey {
+    color: #8d97a4;
+}
+.white {
+    color: #fff;
+}
+.red {
+    color: #e04152;
+}
+.blue {
+    color: #35adda;
+}
+.yellow {
+    color: #ffcf48;
+}
+.green {
+    color: #8cc34b;
+}
+.off-white {
+    color: #f6f7fb;
+}
+.dark-grey {
+    color: #434a54;
+}
+/* 04. Main Content */
+#main-content {
+    width: 84%;
+    min-height: 100%; /* KAM 03/20/2017 */
+    padding-left: 0;
+    padding-right: 0;
+    background: #fbf9f9;
+    margin: 0;
+    align-content: flex-start;
+}
+/* 04-1. Intro Banner */
+#intro-banner {
+    background-image: url("opt-imgs/intro-bg.jpg");
+    background-size: cover;
+    height: 190px;
+    padding-top: 75px;
+    text-align: center;
+}
+/* 04-2. Feature Callout */
+#feature-callouts {
+    padding-top: 32px;
+}
+.feature-btn:hover {
+    text-decoration: none;
+}
+.feature-btn:hover .feature-icon {
+    background-color: #8cc34b;
+}
+.feature {
+    padding-bottom: 50px;
+}
+.feature-icon {
+    background-color: #35adda;
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    margin: 0 auto;
+    transition: 0.7s all ease;
+}
+/* 04-3. Progress Callout */
+#progress-recap {
+    background: #fff;
+    margin: 0;
+}
+/* 05. Form Styling */
+.form-field {
+}
+.formLabel {
+    font-size: 0.01em;
+    padding: 0;
+    margin: 0;
+    color: #fff;
+}
+.textInput {
+    width: 100%;
+    border: none;
+    font-size: 12em;
+    color: #8d97a4;
+    outline: none;
+    box-shadow: inset 0px -2px 0px 0px #e5e7ec;
+    padding: 15px 15px 25px 15px;
+    transition: .3s all ease;
+    background: #fff;
+}
+input[type="text"], input[type="password"], input[type="email"], select {
+    border: none;font-size: 1.3em;
+    color: #8d97a4;
+    outline: none;
+    box-shadow: inset 0px -2px 0px 0px #e5e7ec;
+    padding: 12px 15px;
+    transition: .3s all ease;
+    background: #fff;
+}
+select {
+    height: 40px;
+    margin-bottom: 5px;
+    border-radius: 0px;
+}
+.textInput:hover, .textInput:active, .textInput:focus, .textInput2:hover, .textInput2:active, .textInput2:focus, input[type="text"]:hover, input[type="text"]:active, input[type="text"]:focus, input[type="password"]:hover, input[type="password"]:active, input[type="password"]:focus, input[type="email"]:hover, input[type="email"]:active, input[type="email"]:focus, select:hover, select:active, select:focus {
+    box-shadow: inset 0px -3px 0px 0px #8cc34b;
+}
+label {
+    font-size: 1.3em;
+    color: #8d97a4;
+    font-weight: 400;
+    padding: 15px 0px 0px;
+    margin: 0px;
+}
+.formSubmit {
+    width: 100%;
+    max-width: 175px;
+    text-align: center;
+    border: none;
+    outline: none;
+    padding: 15px 10px;
+    font-size: 1.6em;
+    color: #fff;
+    transition: .7s all ease;
+    margin-top: 15px;
+    background: #35adda;
+}
+.formResetBtn {
+    width: 100%;
+    border: none;
+    outline: none;
+    padding: 10px 15px;
+    text-align: left;
+    font-size: 1.3em;
+    color: #8d97a4;
+    background: #e5e7ec;
+    margin-top: 15px;
+    transition: .7s all ease;
+}
+.formSubmit:hover, .formSubmit:active, .formSubmit:focus, .formResetBtn:hover, .formResetBtn:active, .formResetBtn:focus{
+    outline: none;
+    background: #8cc34b;
+    color: #fff;
+    text-decoration: none;
+}
+.badge {
+    font-size: 1.5em;
+    padding: 5px 10px;
+    display: block;
+}
+/* 06. Footer */
+#footer {
+    text-align: center;
+    background: #e04152;
+    padding-bottom: 10px;
+    align-content: flex-start;
+}
+
+/* 07. Landing Page */
+#landing-topbar {
+    text-align: center;
+    padding: 15px 0px;
+}
+#landing-main {
+    background: #f6f7fb;
+    text-align: center;
+    height: 100%;
+    margin: 0 auto;
+    background-image: url('./opt-imgs/landing-bg.png');
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+#landing-main h2 {
+    color: #e04152;
+    font-size: 4.8em;
+    text-transform: uppercase;
+    padding: 15% 25% 0;
+    margin: 0;
+}
+#landing-btns {
+    margin: 0 auto;
+    align-content: flex-start;
+}
+#loging-btn, #signup-btn {
+    width: 200px;
+    background: #e04152;
+    border-radius: 0;
+    border: none;
+    padding: 15px 0;
+    font-size: 1.3em;
+    color: #fff;
+    transition: .7s all ease;
+}
+#loging-btn {
+    margin-right: 15px;
+}
+#loging-btn:hover, #loging-btn:active, #loging-btn:focus, #signup-btn:hover, #signup-btn:active, #signup-btn:focus {
+    outline: none;
+    background: #8cc34b;
+    color: #fff;
+}
+.fade {
+    background: #f6f7fb;
+    opacity: 1;
+    margin-top: 50px;
+    padding-top: 25px;
+}
+.modal-content {
+    border-radius: 0;
+    width: 270px;
+    margin: 0 auto;
+    border: solid 2px #e5e7ec;
+}
+.modal-header {
+    background: #fff;
+    border: none;
+}
+.modal-body {
+    text-align: center;
+}
+button.close, button.close:hover, button.close:active  {
+    color: #e5e7ec;
+    opacity: 1;
+}
+button.close:focus {
+    color: #e04152;
+    opacity: 1;
+    outline: none;
+}
+.modal-title {
+    color: #fff;
+    text-transform: uppercase;
+    padding-bottom: 5px;
+}
+/* 08. Josh's Styling */
+.spacing {
+    padding-bottom: 20px;
+}
+.big-spacing {
+    padding-bottom: 50px;
+}
+.x-big-spacing{
+    padding-bottom: 50px;
+}
+.exercises {
+    color: #35adda;
+    list-style: none;
+    font-size: 2.2em;
+}
+
+/* 09. Bryan's Styling */
+
+.rowSpace{
+    margin-bottom: 15%;
+}
+/* 10. Ivan's Styling */
+/* Calendar */
+#calendar-feature {
+    margin-bottom: 1rem;
+}
+
+#calendar-feature h3 {
+    text-align: center;
+}
+
+#calendar-feature p {
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
+.day-of-week {
+    display: inline-block;
+    width: 13%;
+    text-align: center;
+    vertical-align: top;
+    height: 80%;
+    border: 1px solid black;
+    background-color: #f6f7fb;
+}
+
+.day-of-week > div:nth-child(2) {
+    margin-bottom: 1rem;
+}
+
+.day-of-week strong {
+    margin-bottom: 1rem;
+}
+
+.day-of-week > div:first-child {
+    text-align: right;
+}
+
+.day-of-week:last-child > div span {
+    border-top-right-radius: 10px;
+}
+
+.day-of-week > div:first-child span {
+    padding-left: 0.25rem;
+    padding-bottom: 0.25rem;
+    border-bottom-left-radius: 10px;
+    background-color: #434a54;
+    color: white;
+}
+
+.day-of-week strong {
+    border-bottom: 1px solid black;
+}
+
+.current-day {
+    background-color: #8cc34b;
+}
+
+.day-of-week:nth-child(2n) {
+    border-left: none;
+    border-right: none;
+}
+
+.day-of-week:first-child {
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.day-of-week:last-child {
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+div.calendar {
+    vertical-align: top;
+    margin-bottom: 1rem;
+}
+
+.routine > div {
+    margin-bottom: 0.5rem;
+}
+
+.routine {
+    margin-bottom: 1rem;
+}
+div#gym-hours {
+    text-align: left;
+}
+#gym-hours > div span {
+    display: block;
+}
+#gym-hours > div {
+    margin-bottom: 1rem;
+    text-align: center;
+}
+#gym-hours p {
+    text-align: center;
+    color: #e04152;
+}
+/* Gym Locator */
+
+.controls {
+    background-color: #fff;
+    border-radius: 2px;
+    border: 1px solid transparent;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+    box-sizing: border-box;
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 300;
+    height: 29px;
+    margin-left: 17px;
+    margin-top: 10px;
+    outline: none;
+    padding: 0 11px 0 13px;
+    text-overflow: ellipsis;
+    width: 400px;
+}
+.controls:focus {
+    border-color: #4d90fe;
+}
+.title {
+    font-weight: bold;
+}
+#mapHolder {
+    display: inline-block;
+    vertical-align: middle;
+}
+#mapHolder h2 {
+    text-align: center;
+    margin-bottom: 1rem;
+}
+#mapHolder a {
+    margin-bottom: 1rem;
+}
+#map {
+    width: 80%;
+    height: 80%;
+}
+#infowindow-content {
+    display: none;
+}
+#map #infowindow-content {
+    display: inline;
+}
+/**/
+#gymlist > h2 {
+    text-align: center;
+}
+.fav-gyms > div:last-child {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+
+.gym-item > div {
+    width: 100%;
+    vertical-align: top;
+    display: inline-block;
+    margin-left: 1rem;
+}
+.gym-item > div div {
+    display: inline-block;
+}
+.gym-item > div:first-child {
+    margin-top: 50px;
+}
+.gym-item > div:nth-child(2), .gym-item > div:last-child {
+    margin-top: 30px;
+}
+.gym-item > div img {
+    width: 50px;
+    height: 50px;
+}
+.gym-to-default {
+    /*margin-top: 6rem;*/
+    /*margin-left: 0;*/
+    /*position: absolute;*/
+    /*position: absolute;*/
+}
+.gym-to-default div {
+    display: inline-block;
+    margin-left: 1.5rem;
+    /*margin-top: 5.9rem;*/
+}
+.gym-to-default div:first-child {
+    /*margin-top: 6rem;*/
+}
+.gym-to-default div:last-child {
+    display: block;
+    text-align: center;
+    margin-top: 1rem;
+    /*position: absolute;
+    bottom: 0;
+    right: 0;*/
+}
+.gym-to-default input {
+    margin-left: 0.5rem;
+}
+.gym-to-default span {
+    font-size: 1rem;
+    margin-left: 1rem;
+}
+
+/* Fitness Progress */
+
+#fitness-progress h2 {
+    text-align: center;
+}
+
+#progress-place {
+    margin-top: 2rem;
+    text-align: center;
+}
+
+#strength, #cardio {
+    margin-top: 3rem;
+}
+
+#strength input, #cardio input {
+    /*padding: 3rem;
+    width: 20%;*/
+    background-color: #8cc34b;
+}
+
+#strength input:hover, #cardio input:hover {
+    cursor: pointer;
+    opacity: 0.7;
+}
+
+#fitness-progress h3 {
+    text-align: center;
+}
+
+#chartPlace {
+    width: 90%;
+    padding-right: 4rem;
+}
+
+#strengthControls {
+    margin-top: 1rem;
+    text-align: center;
+}
+
+#strengthControls > div {
+    display: inline-block;
+}
+
+/* 11. Rahul's Styling */
+/* tracking css */
+#StartDiv,#EndDiv,#CalculateDiv
+{
+	padding:2rem;
+}
+/* End Here */
+/* Search Css */
+#SearchTitle
+{
+	font-size:16px;
+	font-weight:bold;
+	text-align:center;
+	width:100%;
+	padding-top:4rem;
+}
+#ResultContainer,#ResultDetailContainer
+{
+	border:solid;
+	width:90%;
+	border-width:0.2rem;
+	min-height:500px;
+	font-size:14px;
+	text-align:left;
+	padding-top:0.2rem;
+}
+.ResultTitleDiv
+{
+	margin:0.2rem;
+}
+.Spacer
+{
+	padding-bottom:0.3rem;
+}
+/* End Here */
+.ratings_stars {
+    background: url('./opt-imgs/star_empty.png') no-repeat;
+    float:      left;
+    height:     28px;
+    padding:    2px;
+    width:      32px;
+}
+.ratings_vote {
+    background: url('./opt-imgs/star_full.png') no-repeat;
+}
+.ratings_over {
+    background: url('./opt-imgs/star_highlight.png') no-repeat;
+}
+#rating_div {
+
+    top: 58px;
+    width:100%;
+    padding: 5px;
+    clear:both;
+    text-align:center;
+}
+.rate_choice
+{
+    width:100%;
+    float:right;
+    margin-top:10px;
+    margin-bottom:10px;
+
+}
+#AvgDiv
+{
+    clear:both;
+    padding-top:15px;
+    padding-bottom:15px;
+}
+#AvgChoice
+{
+    width:50%;
+    float:left;
+
+}
+
+#AvgRating
+{
+    width:50%;
+    float:left;
+    font-size:14px;
+    text-align:center;
+
+}
+.TopRatingDiv
+{
+    text-align:left;
+}
+#RatingContainer
+{
+    clear:both;
+    font-size:12px;
+}
+
+/* 12. Kelly's Styling */
+.gListPicks h1{
+    text-align: center;
+}
+#grocery_list__options {
+    padding-top: 75px;
+}
+#grocery_list__options .grocery_lists  {
+    margin: 0;
+    /*border-right: 5px solid #fbf9f9;*/
+}
+.grocery_list__details .btn-primary {
+    border: none;
+    border-radius: 0;
+    background: #35adda;
+    vertical-align: bottom;
+}
+.foodlist-title-bar {
+    background: #e04152;
+    padding-bottom: 8px;
+}
+.foodlist-title {
+    color: #fff;
+}
+.buttonLink {
+    background: #35adda;
+    transition: .7s all ease;
+    padding: 10px 15px;
+    color: #fff;
+    font-size: 1.3em;
+    border: none;
+    margin: 15px 0px;
+}
+.buttonLink:hover, .buttonLink:active, .buttonLink:focus {
+    outline: none;
+    background: #8cc34b;
+    text-decoration: none;
+    color: #fff;
+}
+#changeListBtn {
+    padding: 30px 0px;
+    margin: auto 0;
+}
+/*#grocery_list__options .btn-primary:nth-child(even) {
+    background: yellow;
+}*/
+.grocery_list__details .btn-primary:hover, .grocery_list__details .btn-primary:active, .grocery_list__details .btn-primary:focus, .grocery_list__details .btn-primary:valid{
+    background: #8cc34b;
+    outline: none;
+}
+.grocery_list__titles {
+    background: #e04152;
+    margin: 0;
+    color: #fff;
+    text-align: center;
+    font-size: 2em;
+    padding-bottom: 7px;
+}
+.grocery_list__details {
+    background: #fff;
+    margin-bottom: 25px;
+    padding: 15px;
+    text-align: center;
+    box-shadow: 0px 5px 5px 0px #ccd0d9;
+    position: relative;
+}
+.grocery_list__details p {
+    padding-bottom: 25px;
+    padding-top: 25px;
+}
+#grocery_list__options_err {
+    text-align: center;
+    margin-bottom: 25px;
+}
+#grocery_list__submit {
+    background: #35adda;
+    border-radius: 0;
+    border: none;
+    font-size: 1.7em;
+    color: #fff;
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    padding: 5px 30px;
+}
+#grocery_list__submission {
+    text-align: center;
+}
+#grocery_list__submit:hover, #grocery_list__submit:active, #grocery_list__submit:focus {
+    background: #8cc34b;
+    outline: none;
+}
+.panel-group {
+    margin: 0 auto;
+    margin-top: 100px;
+    color: #8d97a4;
+    font-size: 1.3em;
+}
+.panel-heading {
+    background: #e04152;
+}
+.panel-title {
+    padding: 8px;
+}
+.panel-title a {
+    color: #fff;
+    font-size: 0.5em;
+    text-transform: none;
+}
+.panel-title a:hover, .panel-title a:active, .panel-title a:focus {
+    text-decoration: none;
+}
+.panel-title:hover, .panel-title:active, .panel-title:focus {
+    background: #8cc34b;
+}
+.panel-body {
+    margin-bottom: 25px;
+}
+.nutrition-category {
+    font-weight: 700;
+    padding-bottom: 10px;
+}
+.nutrition-serving-size {
+    border-bottom: 2px solid #8d97a4;
+    padding-bottom: 2px;
+    margin-bottom: 4px;
+}
+.nutrition-amount, .nutrition-dv {
+    font-size: 0.8em;
+    padding-bottom: 10px;
+    font-weight: 700;
+}
+.nutrition-dv {
+    text-align: right;
+    margin-right: -5px;
+}
+#food-diary-entry {
+    padding: 25px 0px;
+}
+.progress {
+    background-color: #ccd0d9 !important;
+}
+#fat-progress, #chol-progress, #sodium-progress, #carbs-progress {
+    background-color: #35adda;
+}
+.padding-top-75 {
+    padding-top: 75px;
+}
+#loading, #stats {
+    display: block;
+}
+#loading-logo {
+    width: 75px;
+}
+.logo-loading, .logo-loading2, .logo-loading3 {
+    fill: #e04152;
+    animation: colourChange 1.75s infinite;
+    overflow: hidden;
+}
+.logo-loading2 {
+    animation-delay: .15s;
+}
+.logo-loading3 {
+    animation-delay: .35s;
+}
+
+@keyframes colourChange {
+    0% {
+        fill: #e04152;
+    }
+    30% {
+        fill: #35adda;
+    }
+    70% {
+        fill: #e04152;
+    }
+}
+
+/* Media Queries */
+@media only screen and (max-width: 767px) {
+    h1 {
+        font-size: 3.3em;
+    }
+    #nav{
+        display: none;
+    }
+    #wrapper.show-nav #site-canvas {
+        -webkit-transform: translateX(270px);
+        transform: translateX(270px);
+    }
+    #nav-links ul {
+        padding-left: 15px;
+    }
+    #landing-main h2 {
+        padding: 75px 15px 0px;
+        font-size: 4em;
+    }
+    .gListPicks {
+        padding: 100px 30px !important;
+    }
+}
+@media only screen and (max-width: 480px) {
+    #loging-btn {
+        margin-right: 0;
+        margin-bottom: 15px;
+    }
+}
+@media only screen and (max-width: 447px) {
+    #landing-main h2 {
+        padding: 75px 15px 0px;
+        font-size: 3em;
+    }
+}
+@media only screen and (max-width: 420px) {
+    #search-icon {
+        width: 20px;
+        height: 20px;
+        position: relative;
+    }
+    input[type="search"].search-input {
+        width: 50%;
+    }
+    input[type="search"], .search-input {
+        outline: none
+    }
+    #feature-callouts {
+        margin-left: 1px;
+    }
+    #progress-recap {
+        margin-left: 15px;
+    }
+}
+
+@media only screen and (max-width: 320px) {
+    #chartPlace {
+        width: 100%;
+        padding-right: 2rem;
+    }
+}

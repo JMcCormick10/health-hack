@@ -1,0 +1,3312 @@
+Error reporting
+	 Date Time: 2017-04-19 14:24:07
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: dty
+	 file name: D:\home\site\wwwroot\health-hack\Calendar\ViewIndex.php
+	 Error line number: 4
+End reporting
+Error reporting
+	 Date Time: 2017-04-19 11:24:21
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined index: user
+	 file name: D:\home\site\wwwroot\health-hack\index.php
+	 Error line number: 35
+End reporting
+Error reporting
+	 Date Time: 2017-04-19 11:24:21
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Trying to get property of non-object
+	 file name: D:\home\site\wwwroot\health-hack\index.php
+	 Error line number: 48
+End reporting
+Error reporting
+	 Date Time: 2017-04-19 11:24:21
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Trying to get property of non-object
+	 file name: D:\home\site\wwwroot\health-hack\index.php
+	 Error line number: 49
+End reporting
+Error reporting
+	 Date Time: 2017-04-19 11:24:21
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Trying to get property of non-object
+	 file name: D:\home\site\wwwroot\health-hack\index.php
+	 Error line number: 51
+End reporting
+Error reporting
+	 Date Time: 2017-04-19 11:24:21
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Trying to get property of non-object
+	 file name: D:\home\site\wwwroot\health-hack\index.php
+	 Error line number: 52
+End reporting
+Error reporting
+	 Date Time: 2017-04-19 11:24:21
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Trying to get property of non-object
+	 file name: D:\home\site\wwwroot\health-hack\index.php
+	 Error line number: 52
+End reporting
+Error reporting
+	 Date Time: 2017-04-19 11:24:21
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Trying to get property of non-object
+	 file name: D:\home\site\wwwroot\health-hack\index.php
+	 Error line number: 53
+End reporting
+Error reporting
+	 Date Time: 2017-04-19 11:24:21
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Trying to get property of non-object
+	 file name: D:\home\site\wwwroot\health-hack\index.php
+	 Error line number: 54
+End reporting
+Error reporting
+	 Date Time: 2017-04-19 14:24:54
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: dty
+	 file name: D:\home\site\wwwroot\health-hack\Calendar\ViewIndex.php
+	 Error line number: 4
+End reporting
+Error reporting
+	 Date Time: 2017-04-19 14:25:09
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: dty
+	 file name: D:\home\site\wwwroot\health-hack\Calendar\ViewIndex.php
+	 Error line number: 4
+End reporting
+Error reporting
+	 Date Time: 2017-04-19 14:25:20
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined variable: dty
+	 file name: D:\home\site\wwwroot\health-hack\Calendar\ViewIndex.php
+	 Error line number: 4
+End reporting
+Error reporting
+	 Date Time: 2017-10-01 11:35:23
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-01 11:35:33
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-01 11:35:47
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-01 11:36:18
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-01 11:39:21
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-01 11:39:24
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-01 11:39:32
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-01 11:39:58
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-01 11:40:09
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-01 11:40:17
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-01 11:42:22
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-01 11:44:46
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-01 11:46:03
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-01 11:46:17
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-01 11:46:20
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-01 11:46:22
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-01 11:46:53
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-01 11:47:10
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-01 11:47:35
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-01 11:47:38
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-01 19:24:40
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-01 19:24:43
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-01 19:28:26
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-01 19:28:28
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-01 19:33:24
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-01 19:33:27
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-01 19:34:17
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-01 19:34:20
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-01 19:34:37
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-01 19:34:40
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-01 19:34:47
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-01 19:35:01
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-01 19:35:01
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: Cannot modify header information - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 114
+End reporting
+Error reporting
+	 Date Time: 2017-10-01 19:37:32
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-01 19:37:34
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-01 19:37:34
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: Cannot modify header information - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 114
+End reporting
+Error reporting
+	 Date Time: 2017-10-01 19:37:41
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-01 19:37:41
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: Cannot modify header information - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 114
+End reporting
+Error reporting
+	 Date Time: 2017-10-01 22:46:53
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-01 22:46:53
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-02 22:50:47
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-02 22:50:47
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-03 22:47:51
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-03 22:47:51
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-04 22:50:14
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-04 22:50:14
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-05 22:51:32
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-05 22:51:32
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-06 07:34:04
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-06 07:34:04
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-06 22:50:06
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-06 22:50:06
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-07 22:46:54
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-07 22:46:54
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-08 14:03:49
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-08 14:03:49
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-08 22:52:45
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-08 22:52:45
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-09 22:51:03
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-09 22:51:03
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-10 22:53:24
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-10 22:53:24
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-11 22:51:34
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-11 22:51:34
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-12 22:53:14
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-12 22:53:14
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-13 22:48:06
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-13 22:48:06
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-14 08:35:10
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-14 08:35:10
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-14 08:35:16
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-14 08:35:16
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-14 22:52:33
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-14 22:52:33
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-15 22:48:07
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-15 22:48:07
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-16 22:50:39
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-16 22:50:39
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-16 22:50:45
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-16 22:50:45
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-17 00:12:14
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-17 00:12:14
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-17 22:47:02
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-17 22:47:02
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-18 22:48:14
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-18 22:48:14
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-19 11:43:28
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-19 11:43:28
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-19 22:51:41
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-19 22:51:41
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-20 22:51:26
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-20 22:51:26
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-21 22:46:03
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-21 22:46:03
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-22 16:53:29
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-22 16:53:29
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-22 22:48:16
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-22 22:48:16
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-23 22:52:25
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-23 22:52:25
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-24 22:48:24
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-24 22:48:24
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-25 15:46:09
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-25 15:46:09
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-25 15:46:17
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-25 15:46:17
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-25 22:51:12
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-25 22:51:12
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-26 22:50:19
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-26 22:50:19
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-26 23:38:48
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-26 23:38:48
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-26 23:38:55
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-26 23:38:55
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-27 02:37:23
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-27 02:37:23
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-27 22:45:49
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-27 22:45:49
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-28 22:49:58
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-28 22:49:58
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-29 09:14:42
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-29 09:14:42
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-29 22:49:25
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-29 22:49:25
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-30 17:35:54
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-30 17:35:54
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-30 22:47:45
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-30 22:47:45
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-31 18:15:34
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined index: user
+	 file name: /home2/joshmcc/public_html/health-hack/index.php
+	 Error line number: 35
+End reporting
+Error reporting
+	 Date Time: 2017-10-31 18:15:34
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Trying to get property of non-object
+	 file name: /home2/joshmcc/public_html/health-hack/index.php
+	 Error line number: 48
+End reporting
+Error reporting
+	 Date Time: 2017-10-31 18:15:34
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Trying to get property of non-object
+	 file name: /home2/joshmcc/public_html/health-hack/index.php
+	 Error line number: 49
+End reporting
+Error reporting
+	 Date Time: 2017-10-31 18:15:34
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Trying to get property of non-object
+	 file name: /home2/joshmcc/public_html/health-hack/index.php
+	 Error line number: 51
+End reporting
+Error reporting
+	 Date Time: 2017-10-31 18:15:34
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Trying to get property of non-object
+	 file name: /home2/joshmcc/public_html/health-hack/index.php
+	 Error line number: 52
+End reporting
+Error reporting
+	 Date Time: 2017-10-31 18:15:34
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Trying to get property of non-object
+	 file name: /home2/joshmcc/public_html/health-hack/index.php
+	 Error line number: 52
+End reporting
+Error reporting
+	 Date Time: 2017-10-31 18:15:34
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Trying to get property of non-object
+	 file name: /home2/joshmcc/public_html/health-hack/index.php
+	 Error line number: 53
+End reporting
+Error reporting
+	 Date Time: 2017-10-31 18:15:34
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Trying to get property of non-object
+	 file name: /home2/joshmcc/public_html/health-hack/index.php
+	 Error line number: 54
+End reporting
+Error reporting
+	 Date Time: 2017-10-31 22:51:16
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-10-31 22:51:16
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-01 22:50:44
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-01 22:50:44
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-02 22:45:52
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-02 22:45:52
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-03 03:42:25
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-03 03:42:25
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-03 22:47:05
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-03 22:47:05
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-04 22:48:56
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-04 22:48:56
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-05 22:45:54
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-05 22:45:54
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-06 22:46:53
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-06 22:46:53
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-07 22:52:03
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-07 22:52:03
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-08 22:47:06
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-08 22:47:06
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-09 22:47:47
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-09 22:47:47
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-10 22:49:32
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-10 22:49:32
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-11 12:49:52
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-11 12:49:52
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-11 22:53:16
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-11 22:53:16
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-12 22:51:56
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-12 22:51:56
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-12 22:52:57
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-12 22:52:57
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-13 14:50:06
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-13 14:50:06
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-13 15:16:09
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-13 15:16:09
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-13 22:52:24
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-13 22:52:24
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-14 22:49:54
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-14 22:49:54
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-15 22:50:43
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-15 22:50:43
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-15 22:50:49
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-15 22:50:49
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-16 22:46:29
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-16 22:46:29
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-17 22:46:22
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-17 22:46:22
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-18 22:48:43
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-18 22:48:43
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-19 22:46:30
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-19 22:46:30
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-20 22:49:47
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-20 22:49:47
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-21 19:53:04
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-21 19:53:04
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-21 22:49:35
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-21 22:49:35
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-22 11:24:14
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-22 11:24:14
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-22 22:51:46
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-22 22:51:46
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-23 22:52:20
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-23 22:52:20
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-24 22:50:59
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-24 22:50:59
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-25 22:53:32
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-25 22:53:33
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-26 22:49:01
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-26 22:49:01
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-27 22:49:17
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-27 22:49:17
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-28 20:36:48
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-28 20:36:48
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-28 22:48:56
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-28 22:48:56
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-29 22:46:28
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-29 22:46:28
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-30 22:49:40
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-11-30 22:49:40
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-12-01 09:59:30
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-12-01 09:59:30
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-12-01 20:21:33
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-12-01 20:21:33
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-12-01 22:52:14
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-12-01 22:52:14
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-12-02 22:49:13
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-12-02 22:49:13
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-12-03 22:46:28
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-12-03 22:46:28
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-12-04 22:47:49
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-12-04 22:47:49
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-12-05 22:49:06
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-12-05 22:49:06
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-12-06 11:25:43
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-12-06 11:25:43
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-12-06 22:49:06
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-12-06 22:49:06
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-12-07 06:38:50
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-12-07 06:38:50
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-12-08 13:40:23
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-12-08 13:40:23
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-12-08 22:46:52
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-12-08 22:46:52
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-12-09 22:46:58
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-12-09 22:46:58
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-12-10 19:53:51
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-12-10 19:53:51
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-12-10 22:50:29
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-12-10 22:50:29
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-12-11 16:08:44
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-12-11 16:08:44
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-12-11 20:15:54
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-12-11 20:15:54
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-12-11 22:52:35
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-12-11 22:52:35
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-12-12 22:50:00
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-12-12 22:50:00
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-12-13 08:04:12
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-12-13 08:04:12
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-12-13 20:18:17
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-12-13 20:18:17
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-12-15 22:48:24
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-12-15 22:48:24
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-12-15 22:48:52
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-12-15 22:48:52
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-12-20 12:12:36
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined index: user
+	 file name: /home2/joshmcc/public_html/health-hack/index.php
+	 Error line number: 35
+End reporting
+Error reporting
+	 Date Time: 2017-12-20 12:12:36
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Trying to get property of non-object
+	 file name: /home2/joshmcc/public_html/health-hack/index.php
+	 Error line number: 48
+End reporting
+Error reporting
+	 Date Time: 2017-12-20 12:12:36
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Trying to get property of non-object
+	 file name: /home2/joshmcc/public_html/health-hack/index.php
+	 Error line number: 49
+End reporting
+Error reporting
+	 Date Time: 2017-12-20 12:12:36
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Trying to get property of non-object
+	 file name: /home2/joshmcc/public_html/health-hack/index.php
+	 Error line number: 51
+End reporting
+Error reporting
+	 Date Time: 2017-12-20 12:12:36
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Trying to get property of non-object
+	 file name: /home2/joshmcc/public_html/health-hack/index.php
+	 Error line number: 52
+End reporting
+Error reporting
+	 Date Time: 2017-12-20 12:12:36
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Trying to get property of non-object
+	 file name: /home2/joshmcc/public_html/health-hack/index.php
+	 Error line number: 52
+End reporting
+Error reporting
+	 Date Time: 2017-12-20 12:12:36
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Trying to get property of non-object
+	 file name: /home2/joshmcc/public_html/health-hack/index.php
+	 Error line number: 53
+End reporting
+Error reporting
+	 Date Time: 2017-12-20 12:12:36
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Trying to get property of non-object
+	 file name: /home2/joshmcc/public_html/health-hack/index.php
+	 Error line number: 54
+End reporting
+Error reporting
+	 Date Time: 2017-12-23 15:49:57
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-12-23 15:49:57
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-12-23 15:50:01
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-12-23 15:50:01
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-12-23 15:50:10
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-12-23 15:50:10
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-12-23 15:50:20
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined index: user
+	 file name: /home2/joshmcc/public_html/health-hack/index.php
+	 Error line number: 35
+End reporting
+Error reporting
+	 Date Time: 2017-12-23 15:50:20
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Trying to get property of non-object
+	 file name: /home2/joshmcc/public_html/health-hack/index.php
+	 Error line number: 48
+End reporting
+Error reporting
+	 Date Time: 2017-12-23 15:50:20
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Trying to get property of non-object
+	 file name: /home2/joshmcc/public_html/health-hack/index.php
+	 Error line number: 49
+End reporting
+Error reporting
+	 Date Time: 2017-12-23 15:50:20
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Trying to get property of non-object
+	 file name: /home2/joshmcc/public_html/health-hack/index.php
+	 Error line number: 51
+End reporting
+Error reporting
+	 Date Time: 2017-12-23 15:50:20
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Trying to get property of non-object
+	 file name: /home2/joshmcc/public_html/health-hack/index.php
+	 Error line number: 52
+End reporting
+Error reporting
+	 Date Time: 2017-12-23 15:50:20
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Trying to get property of non-object
+	 file name: /home2/joshmcc/public_html/health-hack/index.php
+	 Error line number: 52
+End reporting
+Error reporting
+	 Date Time: 2017-12-23 15:50:20
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Trying to get property of non-object
+	 file name: /home2/joshmcc/public_html/health-hack/index.php
+	 Error line number: 53
+End reporting
+Error reporting
+	 Date Time: 2017-12-23 15:50:20
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Trying to get property of non-object
+	 file name: /home2/joshmcc/public_html/health-hack/index.php
+	 Error line number: 54
+End reporting
+Error reporting
+	 Date Time: 2017-12-23 15:50:34
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-12-23 15:50:39
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined index: user
+	 file name: /home2/joshmcc/public_html/health-hack/index.php
+	 Error line number: 35
+End reporting
+Error reporting
+	 Date Time: 2017-12-23 15:50:39
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Trying to get property of non-object
+	 file name: /home2/joshmcc/public_html/health-hack/index.php
+	 Error line number: 48
+End reporting
+Error reporting
+	 Date Time: 2017-12-23 15:50:39
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Trying to get property of non-object
+	 file name: /home2/joshmcc/public_html/health-hack/index.php
+	 Error line number: 49
+End reporting
+Error reporting
+	 Date Time: 2017-12-23 15:50:39
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Trying to get property of non-object
+	 file name: /home2/joshmcc/public_html/health-hack/index.php
+	 Error line number: 51
+End reporting
+Error reporting
+	 Date Time: 2017-12-23 15:50:39
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Trying to get property of non-object
+	 file name: /home2/joshmcc/public_html/health-hack/index.php
+	 Error line number: 52
+End reporting
+Error reporting
+	 Date Time: 2017-12-23 15:50:39
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Trying to get property of non-object
+	 file name: /home2/joshmcc/public_html/health-hack/index.php
+	 Error line number: 52
+End reporting
+Error reporting
+	 Date Time: 2017-12-23 15:50:39
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Trying to get property of non-object
+	 file name: /home2/joshmcc/public_html/health-hack/index.php
+	 Error line number: 53
+End reporting
+Error reporting
+	 Date Time: 2017-12-23 15:50:39
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Trying to get property of non-object
+	 file name: /home2/joshmcc/public_html/health-hack/index.php
+	 Error line number: 54
+End reporting
+Error reporting
+	 Date Time: 2017-12-23 15:50:55
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-12-23 15:51:00
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Undefined index: user
+	 file name: /home2/joshmcc/public_html/health-hack/index.php
+	 Error line number: 35
+End reporting
+Error reporting
+	 Date Time: 2017-12-23 15:51:00
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Trying to get property of non-object
+	 file name: /home2/joshmcc/public_html/health-hack/index.php
+	 Error line number: 48
+End reporting
+Error reporting
+	 Date Time: 2017-12-23 15:51:00
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Trying to get property of non-object
+	 file name: /home2/joshmcc/public_html/health-hack/index.php
+	 Error line number: 49
+End reporting
+Error reporting
+	 Date Time: 2017-12-23 15:51:00
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Trying to get property of non-object
+	 file name: /home2/joshmcc/public_html/health-hack/index.php
+	 Error line number: 51
+End reporting
+Error reporting
+	 Date Time: 2017-12-23 15:51:00
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Trying to get property of non-object
+	 file name: /home2/joshmcc/public_html/health-hack/index.php
+	 Error line number: 52
+End reporting
+Error reporting
+	 Date Time: 2017-12-23 15:51:00
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Trying to get property of non-object
+	 file name: /home2/joshmcc/public_html/health-hack/index.php
+	 Error line number: 52
+End reporting
+Error reporting
+	 Date Time: 2017-12-23 15:51:00
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Trying to get property of non-object
+	 file name: /home2/joshmcc/public_html/health-hack/index.php
+	 Error line number: 53
+End reporting
+Error reporting
+	 Date Time: 2017-12-23 15:51:00
+	 Error Number: 8
+	 Error Type: [8]
+	 Error Message: Trying to get property of non-object
+	 file name: /home2/joshmcc/public_html/health-hack/index.php
+	 Error line number: 54
+End reporting
+Error reporting
+	 Date Time: 2017-12-30 13:20:38
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2017-12-30 13:20:38
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-01-02 00:44:02
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-01-02 00:44:03
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-01-05 07:30:16
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-01-05 07:30:16
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-01-07 12:39:21
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-01-07 12:39:21
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-01-09 14:02:25
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-01-09 14:02:25
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-01-10 22:10:10
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-01-10 22:10:10
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-01-12 16:40:37
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-01-12 16:40:37
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-01-12 16:41:19
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-01-12 16:41:19
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-01-12 16:41:56
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-01-12 16:41:56
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-01-12 16:45:13
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-01-12 16:45:13
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-01-12 16:54:19
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-01-12 16:54:19
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-01-12 16:54:57
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-01-12 16:54:57
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-01-13 09:34:18
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-01-13 09:34:18
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-01-13 09:34:19
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-01-13 09:34:19
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-01-14 10:53:44
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-01-14 10:53:45
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-01-14 22:47:53
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-01-14 22:47:53
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-01-14 22:48:19
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-01-14 22:48:19
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-01-20 10:49:04
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-01-20 10:49:04
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-01-29 07:43:24
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-01-29 07:43:24
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-01-31 11:37:41
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-01-31 11:37:41
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-02-04 14:50:12
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-02-04 14:50:12
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-02-07 10:29:11
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-02-07 10:29:11
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-02-07 22:54:40
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-02-07 22:54:40
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-02-08 22:48:14
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-02-08 22:48:14
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-02-09 22:54:03
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-02-09 22:54:03
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-02-10 22:48:08
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-02-10 22:48:08
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-02-11 01:57:45
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-02-11 01:57:45
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-02-11 22:58:26
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-02-11 22:58:26
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-02-12 11:02:41
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-02-12 11:02:41
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-02-12 22:47:49
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-02-12 22:47:49
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-02-13 22:50:08
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-02-13 22:50:08
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-02-13 22:50:30
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-02-13 22:50:30
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-02-14 22:57:43
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-02-14 22:57:43
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-02-15 20:17:23
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-02-15 20:17:23
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-02-15 22:50:18
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-02-15 22:50:18
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-02-16 11:37:44
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-02-16 11:37:45
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-02-16 22:48:44
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-02-16 22:48:44
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-02-17 13:30:23
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-02-17 13:30:23
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-02-17 22:51:06
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-02-17 22:51:06
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-02-18 22:51:39
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-02-18 22:51:39
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-02-19 22:51:09
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-02-19 22:51:09
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-02-20 22:49:11
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-02-20 22:49:11
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-02-21 13:50:33
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-02-21 13:50:33
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-02-21 22:49:37
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-02-21 22:49:37
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-02-23 02:17:45
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-02-23 02:17:46
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-02-23 17:45:38
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-02-23 17:45:38
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-02-23 23:25:34
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-02-23 23:25:34
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-02-24 20:01:43
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-02-24 20:01:43
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-02-24 22:47:31
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-02-24 22:47:31
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-02-25 18:10:57
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cookie - headers already sent by (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
+Error reporting
+	 Date Time: 2018-02-25 18:10:57
+	 Error Number: 2
+	 Error Type: [2]
+	 Error Message: session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/joshmcc/public_html/health-hack/landing.php:2)
+	 file name: /home2/joshmcc/public_html/health-hack/landing.php
+	 Error line number: 8
+End reporting
